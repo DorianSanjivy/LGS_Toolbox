@@ -1,7 +1,10 @@
 {
   "name": "LGSToolbox.Runtime",
   "rootNamespace": "LGSToolbox",
-  "references": [],
+  "references": [
+    "DOTween",
+    "TMPEffects"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
