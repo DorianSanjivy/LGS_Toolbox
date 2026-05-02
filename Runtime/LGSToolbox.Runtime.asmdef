@@ -4,7 +4,8 @@
     "references": [
         "DOTween",
         "TMPEffects",
-        "Newgrounds.Runtime"
+        "Newgrounds.Runtime",
+        "IngameDebugConsole.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
