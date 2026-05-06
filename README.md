@@ -11,4 +11,4 @@ LGS Toolbox is a lightweight Unity package containing reusable helpers for Unity
 
 ## Installation
 
-https://github.com/DorianSanjivy/lgs-toolbox.git
+https://github.com/DorianSanjivy/LGS_toolbox.git
