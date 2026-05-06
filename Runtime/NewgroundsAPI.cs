@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+#if LGS_NEWGROUNDS
+
 namespace LGSToolbox
 {
     [DisallowMultipleComponent]
@@ -264,3 +266,5 @@ namespace LGSToolbox
         }
     }
 }
+
+#endif
