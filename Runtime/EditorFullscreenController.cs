@@ -15,7 +15,7 @@ namespace LGSToolbox
         [Header("Fullscreen")]
         [SerializeField] private bool fullscreenOnStart = false;
         [SerializeField] private bool allowToggle = true;
-        [SerializeField] private KeyCode toggleKey = KeyCode.Slash;
+        [SerializeField] private KeyCode toggleKey = KeyCode.Period;
 
         [Header("Persistence")]
         [SerializeField] private bool persistAcrossScenes = true;
